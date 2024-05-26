@@ -1,0 +1,16 @@
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\bin\Debug\net8.0-windows\04 Single Responsability.exe
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\bin\Debug\net8.0-windows\04 Single Responsability.deps.json
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\bin\Debug\net8.0-windows\04 Single Responsability.runtimeconfig.json
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\bin\Debug\net8.0-windows\04 Single Responsability.dll
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\bin\Debug\net8.0-windows\04 Single Responsability.pdb
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.csproj.GenerateResource.cache
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.AssemblyInfoInputs.cache
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.AssemblyInfo.cs
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.dll
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\refint\04 Single Responsability.dll
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.pdb
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\04 Single Responsability.genruntimeconfig.cache
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single Responsability\obj\Debug\net8.0-windows\ref\04 Single Responsability.dll
+C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\04 Single responsability\obj\Debug\net8.0-windows\_04_Single_Responsability.System.resources
